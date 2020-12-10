@@ -1,4 +1,5 @@
 # angular-app
+Angular boilerplate template to start.
 
 #### Start
 ```
